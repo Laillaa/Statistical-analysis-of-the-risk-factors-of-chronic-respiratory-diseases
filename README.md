@@ -1,6 +1,6 @@
 # Statistical-analysis-of-the-risk-factors-of-chronic-respiratory-diseases
 
-The Statistical analysis of the risk factors of chronic respiratory diseases is a group project using R made within the framework of the Business Statistics II class at the University of Neuchâtel:
+The Statistical analysis of the risk factors of chronic respiratory diseases is a group project using R made within the framework of the Business Statistics II class at the University of Neuchâtel.
 
 ## Repository Structure
 
